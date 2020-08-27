@@ -1,5 +1,5 @@
 {
-  "name": "single-spa-react",
+  "name": "@shenorg/single-spa-react",
   "version": "3.0.1",
   "description": "A single spa plugin for React apps",
   "main": "lib/umd/single-spa-react.js",
